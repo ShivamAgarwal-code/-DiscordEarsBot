@@ -7,10 +7,6 @@ Can be useful for hearing impaired and deaf people.
 
 [![Discord Ears Bot Demo](https://img.youtube.com/vi/IKIlnaCDZcI/0.jpg)](https://www.youtube.com/watch?v=IKIlnaCDZcI "Discord Ears Bot Demo")
 
-### Installation Tutorial
-YouTube: https://www.youtube.com/watch?v=IKIlnaCDZcI
-
-Try the bot for yourself on our Discord server: https://discord.gg/ApdTMG9
 
 ## Developers
 
@@ -52,12 +48,6 @@ By now you have a discord server, the DiscordEarsBot is running and is a part of
 - For Google Speech & WitAI: The duration of a single audio input is limited to 20 seconds, longer audio is not transcribed.
 
 
-## Speech Services
-
-[![Speech to Text Discord Bot](https://img.youtube.com/vi/fQcEZIgw_LA/0.jpg)](https://www.youtube.com/watch?v=fQcEZIgw_LA "Discord Ears Bot Demo")
-
-YouTube comparison and tutorial for developers on choosing the right Speech API: https://www.youtube.com/watch?v=fQcEZIgw_LA
-
 ### Vosk API
 This is our default Speech-to-Text method. The Vosk API is a free & open-source solution that runs locally (offline). By default only `english` is enabled. Developers can change or include more language models from here: https://alphacephei.com/vosk/models
 
@@ -83,14 +73,3 @@ You can use Google's Speech-to-Text API as follows:
 
 ### Mozilla DeepSpeech (experimental)
 Using Mozilla DeepSpeech for speech recognition, [tutorial](https://medium.com/@ilyanevolin/discord-stt-bot-using-mozilla-deepspeech-e77ee28937eb).
-
-
-## Contact
-
-For enquiries or issues get in touch with me:
-
-Name: [Ilya Nevolin](https://www.linkedin.com/in/iljanevolin/)
-
-Email: ilja.nevolin@gmail.com
-
-Discord: https://discord.gg/ApdTMG9
