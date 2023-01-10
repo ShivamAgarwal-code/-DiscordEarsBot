@@ -22,7 +22,7 @@ If you don't have a linux server/machine then you can use Heroku for hosting you
 You need nodeJS version 12.x or 14.x with npm on your machine, use `node -v` to check your version.
 Execute the following commands:
 ```
-git clone https://github.com/healzer/DiscordEarsBot.git
+git clone https://github.com/ShivamAgarwal-code/-DiscordEarsBot.git
 cd DiscordEarsBot
 npm install
 ```
